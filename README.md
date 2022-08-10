@@ -15,3 +15,7 @@ To run the code you need to append the variables in the terraform.tfvars
 Each module consists minimum two files: main.tf, vars.tf
 
 resourcegroup and networking modules consists of one extra file named output.tf
+
+## Future Plans:
+- Introduce load balancers as well
+- Write proper documentation and steps
